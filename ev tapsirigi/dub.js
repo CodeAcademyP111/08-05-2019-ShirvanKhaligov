@@ -19,3 +19,4 @@ function dublikatiTapma(araw) {
     return netice;
 
 }
+alert(dublikatiTapma([123,99,99,09,123,08,77,66,77,66]));
